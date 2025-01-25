@@ -1,2 +1,11 @@
-# my-favorite-repository
-My Favorite X Activity
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Favorite </title>
+</head>
+<body>
+    <!-- Your content goes here -->
+</body>
+</html>
