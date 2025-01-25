@@ -1,11 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Favorite </title>
-</head>
-<body>
-    <!-- Your content goes here -->
-</body>
-</html>
+Hello in this repository I'm going through my favorite music in general
+
+It includes my favorite songs, albums and artists! Hope you give it a listen and thanks for reading this
